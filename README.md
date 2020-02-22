@@ -5,3 +5,4 @@ The current version of the tool utilizes some minified JavaScript and CSS code f
 An online tool for making mindmaps by writing indented lists.
 
 Cloned from tobloef https://github.com/tobloef/text2mindmap Personal use only.
+Can be visited at https://0gasg0.github.io/mindmap/
